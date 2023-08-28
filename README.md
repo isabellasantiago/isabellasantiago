@@ -34,7 +34,8 @@
 
 
 ### Languages
-- English - 
+- English - Advanced
+- Portuguese - Native Speaker
 
 ### Soft Skills
 - Passionate about technology
