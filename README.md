@@ -1,8 +1,10 @@
 ### Hello, I'm Isabella Santiago 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-santiago-b816b6158/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bellasantiag10@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellasantiago&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4)
 
 
 ## Technologies 👩‍💻
@@ -29,6 +31,10 @@
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+
+### Languages
+- English - 
 
 ### Soft Skills
 - Passionate about technology
