@@ -4,7 +4,7 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bellasantiag10@gmail.com)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=5)
 
 
 ## Technologies 👩‍💻
@@ -37,7 +37,7 @@
 - English - Advanced
 - Portuguese - Native Speaker
 
-### Soft Skills
+### Soft Skills 🤹
 - Passionate about technology
 - Absolutely an easygoing person
 - I’m driven by teamwork.
